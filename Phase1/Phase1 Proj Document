@@ -1,0 +1,20 @@
+﻿This program is developed to serve the purpose of managing files. This application requests user to key in directory or location for the files to be retrieved in ascending order.
+Then a menu with options as below will be prompted for user to select.
+
+PLEASE SELECT AN OPTION FROM MENU :
+
+1	 Add file.
+2	 Delete file.
+3	 Search file.
+4	 Exit Menu
+
+User should be able to perform each option that he or she had selected. The function for each option as below: 
+
+Add file – user should able to add or create a new file in same directory.
+Delete file – user should able to delete any file in the file list (the filename must be the same or correct)
+Search file – user should able to search any file in the file list (the filename must be the same or correct)
+Exit Menu – to exit the menu and quit the application.
+
+After successfully completed for each option or task, application will prompt a question whether user wants to quit or proceed with another option.
+
+The application will end once user select an option to quit.
